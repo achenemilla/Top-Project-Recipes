@@ -1,1 +1,2 @@
 # Top-Project-Recipes
+This is a foundational project to help combine all the knowledge I've learnt up until this point. This will mainly consists of a main index page which will have links to a few recipies. It will look better when I revisit the project after learning css.
